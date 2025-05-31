@@ -4,4 +4,3 @@ Windows Forms kullanılarak C# ile geliştirilen basit bir kargo takip sistemi.
 
 Aşağıda projenin form arayüzünün ekran görüntüsü yer almaktadır:
 
-![Form Arayüzü](formekran.png)
