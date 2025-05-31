@@ -2,7 +2,8 @@
 Windows Forms kullanılarak C# ile geliştirilen basit bir kargo takip sistemi. 
 ## Form Arayüzü
 
-Projenin form arayüzünün ekran görüntüsü yer almaktadır:
+Projenin form arayüzünün ekran görüntüleri yer almaktadır:
 
+![form_1 jpeg](https://github.com/user-attachments/assets/f891530a-2db3-4b9e-b9c1-9b298219564d)
 
-![formekran2 png](https://github.com/user-attachments/assets/9e7cee04-361e-41c4-8516-9e035a2a2a5d)
+![form_2 jpeg](https://github.com/user-attachments/assets/8cac83f4-d2e3-46ae-8442-23de191d9759)
